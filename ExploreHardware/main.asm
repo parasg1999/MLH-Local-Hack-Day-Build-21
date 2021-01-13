@@ -1,0 +1,3 @@
+MVI A, 49H  
+STA 2501H
+HLT 
